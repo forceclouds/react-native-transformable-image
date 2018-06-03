@@ -29,7 +29,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "react-native-view-transformer": "0.0.28"
+    "react-native-view-transformer": "git+https://github.com/forceclouds/react-native-view-transformer.git"
   },
   "deprecated": false,
   "description": "A pure JavaScript written transformable image component, like PhotoView or ImageViewer, supports gestures like pan, pinch, double tab and fling, works with both iOS and Android.",
